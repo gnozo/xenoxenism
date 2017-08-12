@@ -1,0 +1,47 @@
+██╗  ██╗███████╗███╗   ██╗ ██████╗ ██╗  ██╗███████╗███╗   ██╗██╗███████╗███╗   ███╗
+╚██╗██╔╝██╔════╝████╗  ██║██╔═══██╗╚██╗██╔╝██╔════╝████╗  ██║██║██╔════╝████╗ ████║
+ ╚███╔╝ █████╗  ██╔██╗ ██║██║   ██║ ╚███╔╝ █████╗  ██╔██╗ ██║██║███████╗██╔████╔██║
+ ██╔██╗ ██╔══╝  ██║╚██╗██║██║   ██║ ██╔██╗ ██╔══╝  ██║╚██╗██║██║╚════██║██║╚██╔╝██║
+██╔╝ ██╗███████╗██║ ╚████║╚██████╔╝██╔╝ ██╗███████╗██║ ╚████║██║███████║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝     ╚═╝
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+XenoXenism is an fork of XenoFeminism. As such it falls under the GPL.
+Feel free tofork, translate, and modify it as you see fit. All such forks and translations shall also fall under the GPL, 
+and be made available for free reproduction and modification. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Please see LICENSE for more details. 
+It was implemented as the quickest path to otherness, defined in terms of evolutionary psychology. <br> XenoXenism consists in taking into critical account determinisms outside immediate experience. 
+
+break
+
+Listen to your genes. Do not be yourself. Become other.
+
+(The Bible of Xenoxenism will be made public on October 7 2017.)
+
+1-XenoXenism can be compared to Zen Buddhism in its urge to produce unfiltered behaviour in well-orchestrated contexts. 
+...
+
+2-It is best thought of as an MVC implementation  of Spinoza’s system (short for the Model/View/Controller pattern used in coding, as for example HTML/CSS/JavaScript). XenoXenism understands the world as a set of three layers: the infinite series of conscious selves experienced by all sentient creatures, the layout or rendering of immediate experience, and the functions at work in the social world. Each of these layers deserves proper description, as their overlapping processes should be understood as functionally differentiated. Two more items will be described: the alienated nature of human experience, and the means by which to reach Otherness, binding determinisms and randomness under the process of ritualization of spontaneity. 
+
+3-Critical thought, recursive and skeptical
+Skepticism is an ancient philosophical school which claimed that ultimate wisdom, leading to happiness, consists in breaking apart all decision processes into their eventual duality and being able to see them as equally plausible. Their moto, “ou mallon”, can be rendered as “not one rather than the other”. According to Pyrrho, psychological stability, or rather equanimity can only be reached by means of what he called suspension of judgement. The 
+goal of this process can easily be compared to Zen Buddhism, which points out the absence of an actual border between things, thus making the concept of otherness futile. 
+
+4-Spontaneity and instinctive behaviours are understood as generators of actualised and contextualised random behaviors, more precisely non-replicable behaviours.
+...
+
+----
+
+Le XénoXénisme est une version alternative du XénoFéminisme. Il a été implémenté comme voie la plus rapide vers l’altérité, définie en termes de psychologie évolutionniste. <br> Le XénoXénisme consiste à prendre en compte et à critiquer les déterminismes enfouis au delà de l’expérience immédiate. Écoutez vos gênes. Ne soyez plus vous-même. Devenez autre.
+
+(La Bible du XénoXénisme sera rendue publique le 7 Octobre 2017.)
+
+1-Bouddhisme Zen
+Le XénoXénisme ressemble au Bouddhisme Zen dans son engagement à produire des comportements non-filtrés dans des contextes bien orchestrés. On ne pourrait mieux le décrire que comme une implémentation MVC du système de Spinoza (acronyme du motif Modèle/Vue/Contrôleur utilisé en programmation, comme par exemple dans l’ensemble HTML/CSS/JavaScript). Le XénoXénisme comprend le monde comme un ensemble composé de trois couches: la série infinie de personnalités conscientes que toute créature sensible expérimente, l’apparence et le rendu de l’expérience immédiate et les fonctions au travail dans le monde social,. Chacune de ces couches mérite une description appropriée, car leur processus superposés doivent être compris comme fonctionnellement différenciés. Deux éléments supplémentaires seront décrits: la nature aliénée de l’expérience humaine, et les moyens pour atteindre l’Altérité, en joignant les déterminismes avec l’arbitraire sous la forme du processus de ritualisation de la spontanéité. 
+
+3-Pensée Critique, récursivité et scepticisme
+Le scepticisme est une école de philosophie Antique, qui affirme que la sagesse ultime, qui mène au bonheur, consiste à réduire tous les processus à leur dualité essentielle, tout en étant capable de les voir comme deux possibilités équivalentes. Leur devise, “ou mallon”, signifiant “pas plus l’un que l’autre”. D’après Pyrrhon d’Elis, la stabilité psychologique, ou plutôt l’état d’équanimité ne peut être atteint qu’à travers ce qu’il appelait la suspension du jugement. Le but de ce processus peut facilement être comparé au Bouddhisme Zen, qui nie l’existence d’une division nette entre les choses, ce qui rend le concept d’altérité futile.
+
+4-Ritualisation de la Spontanéité
+La spontanéité et les comportements instinctifs sont entendus en tant que générateurs de comportements arbitraires, ou plus précisément de comportements non-reproductibles.
